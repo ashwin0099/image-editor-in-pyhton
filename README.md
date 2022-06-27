@@ -1,1 +1,0 @@
-# image-editor-in-pyhton
