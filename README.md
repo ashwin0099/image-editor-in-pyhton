@@ -1,7 +1,7 @@
 # image-editor-in-pyhton
 
 This is a utility software made using Python which allows the user to freely edit images in a GUI-based environment.
-This has several features like:
+This has several features like:<br>
 ->Crop<br>
 ->Brightness<br>
 ->Histogram<br>
